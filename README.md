@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif" width="300"/> 
+  <img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif" width="100"/> 
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
