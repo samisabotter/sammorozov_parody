@@ -12,7 +12,7 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Data Scientist from Russia.
 - :telescope: I am engaged in pet projects in the field of modeling and machine learning
 
