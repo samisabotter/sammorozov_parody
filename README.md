@@ -13,7 +13,7 @@
 </div>
 
 ### About Me :
-I am a Data Scientist from Russia.
+I am a Data Scientist from Russia. 
 - :telescope: I am engaged in pet projects in the field of modeling and machine learning
 
 - :seedling: I study algorithms
