@@ -21,7 +21,7 @@ I am a Data Scientist from Russia.
 - :zap: In my free time I solve problems on LeetCode https://leetcode.com/sammorozov/
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
-
+ 
 ---
  Languages and Tools :
 <div>
