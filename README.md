@@ -14,11 +14,11 @@
 
 ### About Me :
 I am a Data Scientist from Russia. 
-- :telescope: I am engaged in pet projects in the field of modeling and machine learning
+- 🛰️: I am engaged in pet projects in the field of modeling and machine learning, and study algorithms
 
-- :seedling: I study algorithms
+- 🍕: I am on my way to web3 understanding.
 
-- :zap: In my free time I solve problems on LeetCode https://leetcode.com/sammorozov/
+- 🥇: In my free time I solve problems on LeetCode https://leetcode.com/sammorozov/
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
  
