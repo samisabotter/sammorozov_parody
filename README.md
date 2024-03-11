@@ -68,9 +68,14 @@ I am a Data Scientist from Russia.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sammorozov&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.03&count_weight=0.5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![My gitHub stats](https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sammorozov&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 
 ### :writing_hand: Blog Posts :
