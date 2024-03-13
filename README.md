@@ -21,7 +21,7 @@ I am a Data Scientist from Russia.
 - 🥇: In my free time I solve problems on LeetCode https://leetcode.com/sammorozov/
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
- 
+
 ---
  Languages and Tools :
 <div>
@@ -51,33 +51,36 @@ I am a Data Scientist from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="60" height="60"/>
-
-  
-
-
-  
-  
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="60" height="60"/>  
   
 </div>
 
 ---
 
+  
+<p align="center">
+  <img width="1000" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
 ---
+
+
+
 
 ### My Stats :
 
+<p align="left">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.03&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.03&count_weight=0.5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![My gitHub stats](https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sammorozov&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
