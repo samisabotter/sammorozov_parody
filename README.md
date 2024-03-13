@@ -44,6 +44,7 @@ I am a Data Scientist from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="60" height="60"/>
   <img src="https://github.com/graphql/graphql.github.io/blob/150fe31709064694ed25a7ac4135fbdf4375b0db/static/img/conf/Sponsors/Postman.svg?plain=1" title="Postman" alt="Postman" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="60" height="60"/>
@@ -65,10 +66,6 @@ I am a Data Scientist from Russia.
 
 ---
 
-
-
-
-### My Stats :
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
