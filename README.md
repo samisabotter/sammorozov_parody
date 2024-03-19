@@ -13,7 +13,7 @@
 </div>
 
 ### About Me :
-I am a Data Scientist from Russia. 
+I am a Middle Data Scientist and Junior Web3 developer from Russia. 
 - 🛰️: I am engaged in pet projects in the field of modeling and machine learning, and study algorithms
 
 - 🍕: I am on my way to web3 understanding.
