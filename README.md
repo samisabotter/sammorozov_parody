@@ -1,4 +1,5 @@
-### About Me : да, на тебя подписался мой скрипт :)
+# да, на тебя подписался мой скрипт :)
+### About Me : 
 I am a Middle Data Scientist and Junior Web3 developer from Russia. 
 - 🛰️: I am engaged in pet projects in the field of modeling and machine learning, and study algorithms
 
