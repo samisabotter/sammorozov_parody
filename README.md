@@ -1,4 +1,4 @@
-yes, the [script](https://t.me/from_the_teapot_to_the_investor) is supported on you :)
+yes, the script is supported on you :)
 ### About Me : 
 I am a Middle Data Scientist and Junior Web3 developer from Russia. 
 - 🛰️: I am engaged in pet projects in the field of modeling and machine learning, and study algorithms
@@ -73,11 +73,6 @@ I am a Middle Data Scientist and Junior Web3 developer from Russia.
 
 
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://t.me/from_the_teapot_to_the_investor">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
 
