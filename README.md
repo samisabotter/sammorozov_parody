@@ -1,4 +1,4 @@
-### About Me : 
+### About Me: 
 
 I am a data scientist interested in predictive analytics and regression tasks. 
 Building models based on recurrent neural networks(RNN) and LSTM. I am also interested in the concept of reinforcement learning(RL).
@@ -6,21 +6,21 @@ I also feel great in classical machine learning and know the necessary mathemati
 At the moment I'm interested in DeFi and web3. I am well versed in writing and analyzing smart-contracts.
 In my free time I solve problems on LeetCode and play CTF's.
 
-### :mailbox:How to reach me:
+### :mailbox: How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
 
-### 📡:Social media: 
+### 📡 Social media: 
 I have a telegram channel where I share my thoughts, successes and failures. And, yes, I'm into cyberpunk.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
 
-### Competitions
-- [LeetCode](https://leetcode.com/sammorozov/)
-- CTF(coming soon...)
+### 🥇 Competitions:
+[LeetCode](https://leetcode.com/sammorozov/)
+CTF(coming soon...)
 
-### Currently working on:
+### 🚀: working on:
 
-- over this README and the script that subscribed to you
+over this README and the script that subscribed to you
 
 
 ---
