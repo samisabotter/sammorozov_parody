@@ -22,10 +22,6 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 - over this README and the script that subscribed to you
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 
 ---
 ### Languages and Tools : (this block is currently being edited, sorry...)
@@ -106,4 +102,10 @@ It's not technology, but I use it. The section will be changed soon.:
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 
