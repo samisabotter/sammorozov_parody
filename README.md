@@ -10,6 +10,13 @@ I am a Middle Data Scientist and Junior Web3 developer from Russia.
 
 - 📡: My TG Channel: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
 
+
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 ---
  Languages and Tools :
 <div>
@@ -63,9 +70,7 @@ I am a Middle Data Scientist and Junior Web3 developer from Russia.
 
 ---
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 
 <p align="center">
