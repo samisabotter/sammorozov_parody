@@ -1,3 +1,5 @@
+high tech, low life.
+
 ### About Me: 
 
 I am a data scientist interested in predictive analytics and regression tasks. 
