@@ -20,8 +20,7 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 ### Currently working on:
 
-- this readme lol
-
+- over this README and the script that subscribed to you
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
