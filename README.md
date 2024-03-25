@@ -29,7 +29,7 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 
 ---
- Languages and Tools :
+### Languages and Tools : (this block is currently being edited, sorry...)
 <div>
 Languages block:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
