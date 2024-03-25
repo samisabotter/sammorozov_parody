@@ -63,6 +63,10 @@ I am a Middle Data Scientist and Junior Web3 developer from Russia.
 
 ---
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
