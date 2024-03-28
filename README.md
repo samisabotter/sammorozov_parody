@@ -26,7 +26,7 @@ over this README and the script that subscribed to you
 
 
 
-## Languages and Tools : (this block is currently being edited, sorry...)
+## Languages and Tools 
 <div>
 
 ### Languages:
