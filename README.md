@@ -16,11 +16,12 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
 
-### Competitions: 🥇
-- [LeetCode](https://leetcode.com/sammorozov/)
-- CTF
+## Competitions: 🥇
 
-  
+### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
+
+### CTF's
+
 | CTF | Result | Place | Team |
 |-----|-----|-----|-----|
 |osuCTF|top 35%|-| undermouses | 
