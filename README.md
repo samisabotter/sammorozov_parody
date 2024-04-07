@@ -18,7 +18,14 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 ### Competitions: 🥇
 - [LeetCode](https://leetcode.com/sammorozov/)
-- CTF(coming soon...)
+- CTF
+
+  
+| CTF | Result | Place | Team |
+|-----|-----|-----|-----|
+|osuCTF|top 35%|-| undermouses | 
+|wolvCTF|top 31%|-| undermouses|
+|swampCTF|top 17%|63/362|check_your_mouse|
 
 ### Working on: 🚀
 
