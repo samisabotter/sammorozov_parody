@@ -24,12 +24,12 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 ### CTF's
 
-| CTF | Result | Place | Team |
-|-----|-----|-----|-----|
-|Space HeroesCTF| now | now | check_yor_mom|
-|swampCTF|top 17%|63/362|check_your_mouse|
-|wolvCTF|top 31%|-| undermouses|
-|osuCTF|top 35%|-| undermouses | 
+| CTF | Result | Team |
+|-----|-----|-----|
+|Space HeroesCTF| now | check_yor_mom|
+|swampCTF|top 17%|check_your_mouse|
+|wolvCTF|top 31%| undermouses|
+|osuCTF|top 35%| undermouses | 
 
 
 
