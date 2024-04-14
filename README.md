@@ -26,8 +26,8 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
-|Space HeroesCTF| now | check_yor_mom|04/2024|
-|swampCTF|top 17%|check_your_mouse|03/2024|
+|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
+|swampCTF|top 17%|check_your_mouse |03/2024|
 |wolvCTF|top 31%| undermouses|03/2024|
 |osuCTF|top 35%| undermouses |02/2024|
 |vskCTF|top 15%| Solo played |09/2023|
