@@ -60,7 +60,7 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 
 
-### My tools for Data Analysis:
+### My tools for Data Manipulation:
 
 | Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
 |----------|----------|----------|----------|----------|----------|
