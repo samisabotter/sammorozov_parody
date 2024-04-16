@@ -9,14 +9,14 @@ At the moment I'm interested in DeFi and web3. I am well versed in writing and a
 In my free time I solve problems on LeetCode and play CTF's.
 
 
+### How to reach me :mailbox:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
+
+
 ### Social media: 📡  
 I have a telegram channel where I share my thoughts, successes and failures. And, yes, I'm into cyberpunk.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
 
 ## Competitions: 🥇
 
@@ -36,8 +36,10 @@ I have a telegram channel where I share my thoughts, successes and failures. And
 
 ### Working on: 🚀
 
-over this README and the script that subscribed to you
-
+- over this README 
+- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
+- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
+- different bots and scripts, you can see the results [here](https://t.me/from_the_teapot_to_the_investor)
 
 
 ## Languages and Tools 
