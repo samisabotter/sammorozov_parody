@@ -1,12 +1,9 @@
 high tech, low life.
 
 ### About Me: 
+I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
-I am a data scientist interested in predictive analytics and regression tasks. 
-Building models based on recurrent neural networks(RNN) and LSTM. I am also interested in the concept of reinforcement learning(RL).
-I also feel great in classical machine learning and know the necessary mathematical basis.
-At the moment I'm interested in DeFi and web3. I am well versed in writing and analyzing smart-contracts.
-In my free time I solve problems on LeetCode and play CTF's.
+Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
 
 
 ### How to reach me :mailbox:
