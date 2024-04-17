@@ -33,10 +33,10 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ### Working on: 🚀
 
-- over this README 
+- Tweaking this README for optimal engagement 
 - [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
 - [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- different bots and scripts, you can see the results [here](https://t.me/from_the_teapot_to_the_investor)
+- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
 
 
 ## Languages and Tools 
@@ -49,7 +49,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
   
 
-### Best frameworks and main Libs for Python3:
+### Best frameworks and main libraries for Python3:
 
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|
@@ -66,7 +66,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 
   
-### Enviroments, Testing, Other:
+### Environments, Testing, Other:
 
 | nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| HardHat |
 |----------|----------|----------|----------|----------|----------|----------|----------|
