@@ -11,7 +11,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 
 ### Social media: 📡  
-I have a telegram channel where I share my thoughts, successes and failures. And, yes, I'm into cyberpunk.
+Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
 
