@@ -26,6 +26,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |Space HeroesCTF| top 23% | check_yor_mom |04/2024|
 |swampCTF|top 17%|check_your_mouse |03/2024|
 |wolvCTF|top 31%| undermouses|03/2024|
+|ethernautCTF|out of competition|solo|03/2024|
 |osuCTF|top 35%| undermouses |02/2024|
 |vskCTF|top 15%| Solo played |09/2023|
 
