@@ -19,7 +19,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
-|soon...|soon...|movie43|05/24|
+|DEF CON CTF|soon...|movie43|05/24|
 |CIT@CTF|top 6%|undermouses|04/2024|
 |Space HeroesCTF| top 23% | check_yor_mom |04/2024|
 |swampCTF|top 17%|check_your_mouse |03/2024|
