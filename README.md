@@ -84,6 +84,8 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 | 1 | 2 | 3 |
 |----------|----------|----------|
 
+<!--
+
 ### It's not technology, but I use it. The section will be changed soon.:
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
@@ -97,7 +99,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
-
+--> 
 </div>
 
 ---
