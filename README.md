@@ -5,7 +5,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
  
-
+ 
 ### Social media: 📡   
 Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
 
