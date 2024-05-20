@@ -83,7 +83,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 | 1 | 2 | 3 |
 |----------|----------|----------|
-|<img src="assets/msf.png" alt="msf" width="55" height="55" />|||
+|<img src="assets/msf.svg" alt="msf" width="55" height="55" />|||
 
 <!--
 
