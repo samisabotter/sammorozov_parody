@@ -81,9 +81,9 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ### pwntools, soon...
 
-| 1 | 2 | 3 |
-|----------|----------|----------|
-|<img src="assets/msf.svg" alt="msf" width="55" height="55" />|||
+| Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
+|----------|----------|----------|----------|----------|
+|<img src="assets/msf.svg" alt="msf" width="55" height="55" />|||||
 
 <!--
 
