@@ -27,7 +27,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |ethernautCTF|out of competition|solo|03/2024|
 |osuCTF|top 35%| undermouses |02/2024|
 |vksCTF|top 15%| Solo played |09/2023|
-
+ 
 
 
 ### Working on: 🚀
